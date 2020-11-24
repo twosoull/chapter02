@@ -21,12 +21,15 @@ public class PointApp {
 	
 	Point p2 = new Point();
 	
+
+	
 	p2.setx(10);
 	x = p2.getx();
 	
 	
 	p2.sety(23);
 	y = p2.gety();
+	
 	
 	p2.draw(x, y);
 
