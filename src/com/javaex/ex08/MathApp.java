@@ -9,5 +9,8 @@ public class MathApp {
 		
 		double sum02 = myMath.plus(3.13,3.32);
 		System.out.println(sum02);
+		
+	
 	}
+	
 }
